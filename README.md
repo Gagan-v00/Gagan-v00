@@ -18,11 +18,9 @@
 
 ## 🌐 Connect with me
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/gagan-v-val
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gagan-v-val)
 
-📧 Email  
-mailto:gagan2004v@gmail.com
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:gagan2004v@gmail.com)
 
-💻 GitHub  
-https://github.com/GaganVAL
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/GaganVAL)
+
