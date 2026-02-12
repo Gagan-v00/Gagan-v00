@@ -25,4 +25,4 @@ https://www.linkedin.com/in/gagan-v-val
 mailto:gagan2004v@gmail.com
 
 💻 GitHub  
-https://github.com/GaganVAI
+https://github.com/GaganVAL
